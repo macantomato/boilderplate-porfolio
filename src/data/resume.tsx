@@ -124,7 +124,7 @@ export const DATA = {
         },
       ],
       image: "Front-Page.png",
-      video: "/videos/ai-financial-advisor.mp4",
+      video: "",
     },
     {
       title: "Flashcard Web App",
