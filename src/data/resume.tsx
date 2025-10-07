@@ -123,7 +123,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "Front-Page.png",
+      image: "Frront-Page.png",
       video: "",
     },
     {
@@ -141,7 +141,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "flashcard-1.png",
       video: "",
     },
   ],
