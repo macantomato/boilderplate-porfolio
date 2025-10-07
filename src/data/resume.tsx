@@ -123,7 +123,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "Front-Page.png",
       video: "/videos/ai-financial-advisor.mp4",
     },
     {
