@@ -88,8 +88,8 @@ export const DATA = {
       href: "https://www.bth.se/",
       degree: "M.Sc. Eng. Software Engineering",
       logoUrl: "",
-      start: "2021",
-      end: "Expected 2026",
+      start: "2022",
+      end: "Expected 2027",
     },
   ],
   projects: [
@@ -117,9 +117,14 @@ export const DATA = {
           href: "https://github.com/macantomato/AI-driven-investment-advisory",
           icon: <Icons.github className="size-3" />,
         },
+        {
+          type: "Frontend",
+          href: "https://advisor-worker.m-thomaeus.workers.dev/",
+          icon: <Icons.globe className="size-3" />,
+        },
       ],
       image: "",
-      video: "",
+      video: "/videos/ai-financial-advisor.mp4",
     },
     {
       title: "Flashcard Web App",
