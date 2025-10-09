@@ -6,6 +6,11 @@
 
 Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
 
+# Current portfolio site
+```bash
+https://marcus-thomaeus-dev.vercel.app/
+```
+
 # Features
 
 - Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
