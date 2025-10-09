@@ -7,9 +7,9 @@
 Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
 
 # Current portfolio site
-```bash
-https://marcus-thomaeus-dev.vercel.app/
-```
+
+- URL:https://marcus-thomaeus-dev.vercel.app/
+
 
 # Features
 
